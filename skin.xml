@@ -29,6 +29,6 @@
 
   <stick xname="lstick_x" yname="lstick_y" image="joystick.png"
 	   x="420" y="88" width="240" height="240" xrange="85" yrange="85" />
-  <stick xname="rstick_x" yname="rstick_y" image="stick.png"
-	   x="304" y="188" width="80" height="80" xrange="40" yrange="40" />
+  <stick xname="rstick_x" yname="rstick_y" image="joystick.png"
+	   x="1415" y="88" width="240" height="240" xrange="85" yrange="85" />
 </skin>
