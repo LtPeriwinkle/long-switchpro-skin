@@ -3,10 +3,10 @@
 
   <background name="Default" image="switchpro.png" />
 
-  <button name="b" image="circle.png" x="408" y="154" width="50" height="50" />
-  <button name="a" image="circle.png" x="462" y="109" width="50" height="50" />
+  <button name="b" image="circle.png" x="1140" y="248" width="85" height="85" />
+  <button name="a" image="circle.png" x="462" y="109" width="85" height="85" />
   <button name="x" image="circle.png" x="1139" y="96" width="85" height="85" />
-  <button name="y" image="circle.png" x="355" y="108" width="50" height="50" />
+  <button name="y" image="circle.png" x="1060" y="120" width="85" height="85" />
 
   <button name="up" image="padU.png" x="129" y="179" width="37" height="34" />
   <button name="down" image="padD.png" x="129" y="250" width="37" height="34" />
