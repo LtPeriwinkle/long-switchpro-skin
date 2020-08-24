@@ -4,7 +4,7 @@
   <background name="Default" image="switchpro.png" />
 
   <button name="b" image="circle.png" x="1140" y="248" width="85" height="85" />
-  <button name="a" image="circle.png" x="462" y="109" width="85" height="85" />
+  <button name="a" image="circle.png" x="1234" y="171" width="85" height="85" />
   <button name="x" image="circle.png" x="1139" y="96" width="85" height="85" />
   <button name="y" image="circle.png" x="1047" y="172" width="85" height="85" />
 
