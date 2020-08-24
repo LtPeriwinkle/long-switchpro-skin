@@ -5,7 +5,7 @@
 
   <button name="b" image="circle.png" x="408" y="154" width="50" height="50" />
   <button name="a" image="circle.png" x="462" y="109" width="50" height="50" />
-  <button name="x" image="circle.png" x="408" y="63" width="50" height="50" />
+  <button name="x" image="circle.png" x="1139" y="96" width="85" height="85" />
   <button name="y" image="circle.png" x="355" y="108" width="50" height="50" />
 
   <button name="up" image="padU.png" x="129" y="179" width="37" height="34" />
@@ -17,7 +17,7 @@
   <button name="-" image="circle.png" x="155" y="73" width="28" height="28" />
 
   <button name="home" image="circle.png" x="287" y="125" width="28" height="28" />
-  <button name="capture" image="capture.png" x="189" y="124" width="30" height="30" />
+  <button name="capture" image="circle.png" x="189" y="124" width="30" height="30" />
 
   <button name="l" image="shoulder.png" x="2" y="3" width="114" height="46" />
   <button name="r" image="shoulder.png" x="403" y="4" width="114" height="46" />
