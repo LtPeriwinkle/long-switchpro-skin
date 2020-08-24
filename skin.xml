@@ -3,20 +3,20 @@
 
   <background name="Default" image="switchpro.png" />
 
-  <button name="b" image="circle2.png" x="408" y="154" width="50" height="50" />
-  <button name="a" image="circle2.png" x="462" y="109" width="50" height="50" />
-  <button name="x" image="circle2.png" x="408" y="63" width="50" height="50" />
-  <button name="y" image="circle2.png" x="355" y="108" width="50" height="50" />
+  <button name="b" image="circle.png" x="408" y="154" width="50" height="50" />
+  <button name="a" image="circle.png" x="462" y="109" width="50" height="50" />
+  <button name="x" image="circle.png" x="408" y="63" width="50" height="50" />
+  <button name="y" image="circle.png" x="355" y="108" width="50" height="50" />
 
   <button name="up" image="padU.png" x="129" y="179" width="37" height="34" />
   <button name="down" image="padD.png" x="129" y="250" width="37" height="34" />
   <button name="left" image="padL.png" x="96" y="213" width="34" height="37" />
   <button name="right" image="padR.png" x="166" y="213" width="34" height="37" />
 
-  <button name="+" image="circle2.png" x="323" y="73" width="28" height="28" />
-  <button name="-" image="circle2.png" x="155" y="73" width="28" height="28" />
+  <button name="+" image="circle.png" x="323" y="73" width="28" height="28" />
+  <button name="-" image="circle.png" x="155" y="73" width="28" height="28" />
 
-  <button name="home" image="circle2.png" x="287" y="125" width="28" height="28" />
+  <button name="home" image="circle.png" x="287" y="125" width="28" height="28" />
   <button name="capture" image="capture.png" x="189" y="124" width="30" height="30" />
 
   <button name="l" image="shoulder.png" x="2" y="3" width="114" height="46" />
@@ -24,8 +24,8 @@
   <button name="zl" image="shoulder.png" x="130" y="3" width="114" height="46" />
   <button name="zr" image="shoulder.png" x="274" y="4" width="114" height="46" />
 
-  <button name="ls" image="stickpress.png" x="1" y="63" width="130" height="130" />
-  <button name="rs" image="stickpress.png" x="276" y="167" width="130" height="130" />
+  <button name="ls" image="circle.png" x="387" y="67" width="300" height="300" />
+  <button name="rs" image="circle.png" x="1375" y="66" width="300" height="300" />
 
   <stick xname="lstick_x" yname="lstick_y" image="joystick.png"
 	   x="420" y="88" width="240" height="240" xrange="85" yrange="85" />
