@@ -19,8 +19,8 @@
   <button name="home" image="circle.png" x="1032" y="116" width="40" height="40" />
   <button name="capture" image="circle.png" x="946" y="116" width="40" height="40" />
 
-  <button name="l" image="shoulder.png" x="2" y="3" width="114" height="46" />
-  <button name="r" image="shoulder.png" x="403" y="4" width="114" height="46" />
+  <button name="l" image="LR.png" x="25" y="140" width="300" height="65" />
+  <button name="r" image="LR.png" x="1737" y="139" width="300" height="65" />
   <button name="zl" image="shoulder.png" x="130" y="3" width="114" height="46" />
   <button name="zr" image="shoulder.png" x="274" y="4" width="114" height="46" />
 
