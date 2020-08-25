@@ -21,8 +21,8 @@
 
   <button name="l" image="LR.png" x="25" y="140" width="300" height="65" />
   <button name="r" image="LR.png" x="1737" y="139" width="300" height="65" />
-  <button name="zl" image="shoulder.png" x="130" y="3" width="114" height="46" />
-  <button name="zr" image="shoulder.png" x="274" y="4" width="114" height="46" />
+  <button name="zl" image="Z.png" x="128" y="228" width="197" height="66" />
+  <button name="zr" image="Z.png" x="1737" y="228" width="197" height="66" />
 
   <button name="ls" image="circle.png" x="387" y="67" width="300" height="300" />
   <button name="rs" image="circle.png" x="1375" y="66" width="300" height="300" />
