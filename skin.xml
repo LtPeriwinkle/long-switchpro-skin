@@ -13,11 +13,11 @@
   <button name="left" image="padL.png" x="96" y="213" width="34" height="37" />
   <button name="right" image="padR.png" x="166" y="213" width="34" height="37" />
 
-  <button name="+" image="circle.png" x="323" y="73" width="28" height="28" />
-  <button name="-" image="circle.png" x="155" y="73" width="28" height="28" />
+  <button name="+" image="circle.png" x="1032" y="57" width="40" height="40" />
+  <button name="-" image="circle.png" x="946" y="57" width="40" height="40" />
 
-  <button name="home" image="circle.png" x="287" y="125" width="28" height="28" />
-  <button name="capture" image="circle.png" x="189" y="124" width="30" height="30" />
+  <button name="home" image="circle.png" x="1032" y="125" width="40" height="40" />
+  <button name="capture" image="circle.png" x="946" y="124" width="40" height="40" />
 
   <button name="l" image="shoulder.png" x="2" y="3" width="114" height="46" />
   <button name="r" image="shoulder.png" x="403" y="4" width="114" height="46" />
