@@ -8,10 +8,10 @@
   <button name="x" image="circle.png" x="1139" y="96" width="85" height="85" />
   <button name="y" image="circle.png" x="1047" y="172" width="85" height="85" />
 
-  <button name="up" image="padU.png" x="129" y="179" width="37" height="34" />
-  <button name="down" image="padD.png" x="129" y="250" width="37" height="34" />
-  <button name="left" image="padL.png" x="96" y="213" width="34" height="37" />
-  <button name="right" image="padR.png" x="166" y="213" width="34" height="37" />
+  <button name="up" image="U.png" x="831" y="106" width="57" height="76" />
+  <button name="down" image="D.png" x="831" y="254" width="57" height="75" />
+  <button name="left" image="L.png" x="747" y="190" width="75" height="57" />
+  <button name="right" image="R.png" x="897" y="190" width="75" height="57" />
 
   <button name="+" image="circle.png" x="1032" y="57" width="40" height="40" />
   <button name="-" image="circle.png" x="946" y="57" width="40" height="40" />
